@@ -1,0 +1,63 @@
+a:2:{s:4:"data";s:1586:"<li>
+    <a href="category/men">Меню</a>
+        <ul>
+        <li>
+    <a href="category/svetil-niki-nochniki">Светильники Ночники</a>
+        <ul>
+        <li>
+    <a href="category/nochniki-pushistiki">Ночники Пушистики</a>
+    </li>
+<li>
+    <a href="category/cvety-nochniki-7">Цветы Ночники</a>
+        <ul>
+        <li>
+    <a href="category/cvety-nochniki-34"> Цветы ночники</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+<li>
+    <a href="category/svetil-niki-v-podarok">Светильники в подарок</a>
+        <ul>
+        <li>
+    <a href="category/nochnik-pivnaya-kruzhka">Ночник Пивная кружка</a>
+    </li>
+<li>
+    <a href="category/cvety-nochniki">Цветы Ночники</a>
+    </li>
+<li>
+    <a href="category/nochniki-dlya-detey">Ночники для Детей</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+<li>
+    <a href="category/bantiki">Бантики</a>
+        <ul>
+        <li>
+    <a href="category/dlya-detey">Для детей</a>
+    </li>
+<li>
+    <a href="category/dlya-vzroslyh">Для взрослых</a>
+    </li>
+    </ul>
+    </li>
+<li>
+    <a href="category/Bokali">Бокалы</a>
+        <ul>
+        <li>
+    <a href="category/svadebnye-bokaly">Свадебные Бокалы</a>
+        <ul>
+        <li>
+    <a href="category/pervyy-kak-vtoroy">Первый как второй</a>
+    </li>
+    </ul>
+    </li>
+<li>
+    <a href="category/podarochnye-bokaly">Подарочные Бокалы</a>
+    </li>
+    </ul>
+    </li>
+";s:8:"end_time";i:1624369866;}
